@@ -1,1 +1,1 @@
-# React-Javascript-Projects
+# My Vanilla js projects
